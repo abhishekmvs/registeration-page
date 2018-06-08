@@ -1,0 +1,43 @@
+body{
+
+
+/*   font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 28px;*/
+   
+         background-repeat: no-repeat;
+       background-size: cover;
+      
+}
+.nav-link{
+	margin-left: 150px;
+}
+h1{
+	margin-left: 36%;
+	color : white;
+}
+.modal-content{
+	padding-left: 5px;
+}
+h4{
+	margin-left: 20%;
+}
+.btn-secondary{
+	margin:2%;
+}
+.model-dialog{
+	border-radius: 35px;
+}
+#about{
+	color: white;
+	margin-top: 20px;
+}
+.text{
+	color: red;
+}
+#bullet{
+	color:black;
+}
+b,strong{
+ color:wheat
+}
+
